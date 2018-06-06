@@ -5,8 +5,8 @@ LIC_FILES_CHKSUM = "file://${COMMON_LICENSE_DIR}/GPL-2.0;md5=801f80980d171dd6425
 
 DEPENDS += "pkgconfig qtbase"
 
-SRCREV = "d0b223537fffc1b63581cea1986a6cf57acd2eae"
-SRC_URI = "git://github.com/Syntro/SyntroCore.git"
+SRCREV = "541225abf5ceeb788ff6c13356a946daa3c9c175"
+SRC_URI = "git://github.com/Pansenti/SyntroCore.git"
 
 S = "${WORKDIR}/git"
 

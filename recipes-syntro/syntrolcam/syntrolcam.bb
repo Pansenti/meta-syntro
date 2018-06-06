@@ -7,8 +7,8 @@ inherit pkgconfig
 
 DEPENDS += "alsa-lib qtbase syntrocore"
 
-SRCREV = "5f4bdfee0c2ae1c000187f5f537b0bf2a5af8286"
-SRC_URI = "git://github.com/Syntro/SyntroLCam.git"
+SRCREV = "92713dcc432cd2f5dd399763528fafc3ada206db"
+SRC_URI = "git://github.com/Pansenti/SyntroLCam.git"
 
 S = "${WORKDIR}/git"
 
